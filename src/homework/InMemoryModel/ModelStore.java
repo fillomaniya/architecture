@@ -1,9 +1,9 @@
 package homework.InMemoryModel;
 
-import homework.ModelEliments.Camera;
-import homework.ModelEliments.Flash;
-import homework.ModelEliments.PoligonalModel;
-import homework.ModelEliments.Scene;
+import homework.ModelElements.Camera;
+import homework.ModelElements.Flash;
+import homework.ModelElements.PoligonalModel;
+import homework.ModelElements.Scene;
 
 import java.util.ArrayList;
 import java.util.List;
