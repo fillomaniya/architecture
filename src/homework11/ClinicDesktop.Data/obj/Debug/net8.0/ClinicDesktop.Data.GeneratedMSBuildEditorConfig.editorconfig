@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClinicDesktop.Data
-build_property.ProjectDir = /mnt/job/GeekBrains/26-SoftwareArchitecture/Homeworks/HW_SoftArch_11/ClinicDesktop.Data/
+build_property.ProjectDir = /Users/lui/Documents/курс разработчик/Архитектура ПО/hw1/src/homework11/ClinicDesktop.Data/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
